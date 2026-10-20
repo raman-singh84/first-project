@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 a = 5
 b = 6
 c = a + b
 print(f"The sum is {c}")
 c = a - b
 print(f"The difference is {c}")
-=======
+
 a =5
 b =6
 c =a+b
 print(f"The sum is {c}")
 print("Completed")
->>>>>>> refs/remotes/origin/main
+
