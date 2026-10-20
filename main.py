@@ -1,13 +1,6 @@
-a = 5
+a = 15
 b = 6
-c = a + b
-print(f"The sum is {c}")
-c = a - b
-print(f"The difference is {c}")
-
-a =5
-b =6
-c =a+b
-print(f"The sum is {c}")
-print("Completed")
-
+c = a * b
+print(f"The multiplication is {c}")
+c = a / b
+print(f"The division is {c}")
